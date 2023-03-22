@@ -38,5 +38,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanKom1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VanKom1&theme=neon&hide_border=true)](https://git.io/streak-stats)
+
+[![codewars](https://www.codewars.com/users/VanKom1/badges/large)](https://www.codewars.com/users/VanKom1)   
 
