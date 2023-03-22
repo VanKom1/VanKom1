@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm Ivan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNTZjZWY5ODM4OTE0NjY5MDliYjRhODRmZTU4OGY5NTYwZDA0NCZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmNTZjZWY5ODM4OTE0NjY5MDliYjRhODRmZTU4OGY5NTYwZDA0NCZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
